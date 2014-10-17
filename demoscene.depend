@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1413576107 source:c:\demoscene\main.cpp
+1413583716 source:c:\demoscene\main.cpp
 	<windows.h>
 	<GLUT/glut.h>
 	<GL/glut.h>
 	<stdlib.h>
+	<iostream>
 	<cmath>
 
 1301114762 c:\program files (x86)\codeblocks\mingw\include\windows.h
